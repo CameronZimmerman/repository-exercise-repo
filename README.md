@@ -19,3 +19,7 @@ below is a table
 ## Heading3
 
 __bold__ and _italics_ for your viewing pleasure
+
+```js
+this is additional markdown for the stretch goal
+```
